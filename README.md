@@ -1,4 +1,4 @@
-### Hi there 👋
+![headerGithub](https://user-images.githubusercontent.com/84272231/139152196-10440c69-927a-4801-aa77-a4807a94e6c8.png)
 
 <!--
 **BryanWille/BryanWille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...![Uploading headerGithub.png…]()
+
 -->
